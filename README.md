@@ -1,2 +1,4 @@
 # Turing-Machine
-Implenmentation of a Turing Machine
+
+Piotr Pawliszcze , Turing Machine implemenation in Netbeans Platform.
+
